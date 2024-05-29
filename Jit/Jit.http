@@ -1,0 +1,6 @@
+@Jit_HostAddress = http://localhost:5269
+
+GET {{Jit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
